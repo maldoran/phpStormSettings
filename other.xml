@@ -1,0 +1,30 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.14.2" last-modified="1544500120000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Default.Dialect" value="MariaDB" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="Gerrit.DetailRepositoryChangeBrowser.Proportion" value="0.8363636" />
+    <property name="INSPECTION_FILTER_HISTORY" value="Invocation parameter types are not compatible with declared&#10;method" />
+    <property name="InstalledPluginsSearchHistory" value="jira" />
+    <property name="KEYMAP" value="dele" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.1919585" />
+    <property name="SettingsSearchHistory" value="inspec&#10;quality&#10;phpcs&#10;sniff&#10;fold" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.49866667" />
+    <property name="TrendingPluginsSearchHistory" value="jira&#10;jenkins" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/git/preemployment/vendor/elgss/gss-build/ruleset.xml&#10;C:/Users/cbeck/git/moses-vagrant&#10;C:/Users/cbeck/.composer/vendor/bin/phing.bat&#10;C:/Users/cbeck/.composer/composer.phar&#10;C:/Users/cbeck/git/preemployment/vendor/elgss/gss-build/phpmd.xml&#10;C:/Users/cbeck/git&#10;C:/Users/cbeck/git/gss-expressive-skeleton/vendor/elgss/gss-build/phpmd.xml&#10;C:/Users/cbeck/git/gss-expressive-skeleton/vendor/elgss/gss-build/ruleset.xml" />
+    <property name="file.gist.reindex.count" value="21339" />
+    <property name="lastTip" value="9" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.PHP" value="Spaces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

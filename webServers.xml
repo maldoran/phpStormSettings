@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7dcc9ef5-9b74-4107-8a2d-7d07b8315dd3" name="gss-expressive-skeleton" url="https://eskeleton-local.local.good-sam.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e35218b9-3177-44c4-a540-880729802978" name="zend-expressive-skeleton" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="df50799c-0108-43e7-af2a-98a70c28819d" name="preemployment" url="http://preemployment-local.local.good-sam.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

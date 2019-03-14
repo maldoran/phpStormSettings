@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="defaultProjectDirectory" value="C:\Users\cbeck\git" />
+    <option name="defaultProjectDirectory" value="C:\Users\cbeck\git\*" />
     <option name="autoSaveFiles" value="false" />
   </component>
   <component name="Registry">

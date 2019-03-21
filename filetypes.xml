@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
